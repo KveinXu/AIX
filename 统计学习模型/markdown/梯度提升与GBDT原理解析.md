@@ -200,7 +200,7 @@ GBDT使用平方损失函数，每一步的优化都是很简单的，但是对�
 
 在AdaBoost的笔记中，我们曾从梯度下降的角度给出过AdaBoost原理的解释，这实际上就是梯度提升思想的一种体现。梯度提升法是梯度下降法的近似方法，其关键是利用损失函数的负梯度在当前模型的值：
 $$
-- \left[ \frac { \partial L \left( y , f \left( x _ { i } \right) \right) } { \partial f \left( x _ { i } \right) } \right] _ { f ( x ) = f _ { m - 1 } ( x ) }作为回归问题中提升树算法的残差的近似值（与其说负梯度作为残差的近似值，不如说残差是负梯度的一种特例），拟合一个回归树，这就是梯度提升决策树。
+- \left[ \frac { \partial L \left( y , f \left( x _ { i } \right) \right) } { \partial f \left( x _ { i } \right) } \right] _ { f ( x ) = f _ { m - 1 } ( x ) }
 $$
 作为回归问题中提升树算法的残差的近似值（与其说负梯度作为残差的近似值，不如说残差是负梯度的一种特例），拟合新的基学习器（对于GBDT来说是一颗回归树）。
 
