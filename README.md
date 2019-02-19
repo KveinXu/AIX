@@ -15,6 +15,7 @@ Notes and paper reports for machine learning.
 各文件夹的主题如下：
 
 * **相关数学基础**：一些与机器学习相关的数学知识的整理，一般不会涉及详细的原理推导和解释；
+* **机器学习基础**：介绍机器学习的基本概念和基本理论；
 * **统计学习模型**：经典统计学习模型的原理介绍，内容比较基础；
 * **深度学习基础**：深度学习中基本方法和原理的介绍，一般不涉及具体领域的具体方法；
 * **论文报告**：相关论文的总结和报告，以近几年深度学习方面的文章为主，包括一部分具体研究领域的研究方法总结。
@@ -33,6 +34,8 @@ Notes and paper reports for machine learning.
 
 [**线性代数基本概念汇总**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E6%B1%87%E6%80%BB.pdf)
 
+[**概念解析_瑞利商**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E6%A6%82%E5%BF%B5%E8%A7%A3%E6%9E%90_%E7%91%9E%E5%88%A9%E5%95%86.pdf)
+
 **凸优化理论**：
 
 [**凸优化的基本介绍**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E5%87%B8%E4%BC%98%E5%8C%96%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D.pdf)
@@ -41,9 +44,25 @@ Notes and paper reports for machine learning.
 
 [**理解KKT条件**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E7%90%86%E8%A7%A3KKT%E6%9D%A1%E4%BB%B6.pdf)
 
+**概率论**：
+
+[**理解贝叶斯公式**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E7%90%86%E8%A7%A3%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F.pdf)
+
+[**理解贝叶斯先验与后验**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E7%90%86%E8%A7%A3%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%88%E9%AA%8C%E4%B8%8E%E5%90%8E%E9%AA%8C.pdf)
+
+[**浅谈频率学派与贝叶斯学派的区别**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E6%B5%85%E8%B0%88%E9%A2%91%E7%8E%87%E5%AD%A6%E6%B4%BE%E4%B8%8E%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%AD%A6%E6%B4%BE%E7%9A%84%E5%8C%BA%E5%88%AB.pdf)
+
+[**最大似然估计与最大后验估计**](https://github.com/KveinXu/AIX/blob/master/%E7%9B%B8%E5%85%B3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/pdf/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1%E4%B8%8E%E6%9C%80%E5%A4%A7%E5%90%8E%E9%AA%8C%E4%BC%B0%E8%AE%A1.pdf)
+
 
 
 * **统计学习模型**
+
+**线性判别分析**：
+
+[**LDA和QDA的分类原理**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/LDA%E5%92%8CQDA%E7%9A%84%E5%88%86%E7%B1%BB%E5%8E%9F%E7%90%86.pdf)
+
+[**LDA的降维原理**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/LDA%E7%9A%84%E9%99%8D%E7%BB%B4%E5%8E%9F%E7%90%86.pdf)
 
 **决策树**：
 
@@ -56,6 +75,18 @@ Notes and paper reports for machine learning.
 [**另类解读SVM—从损失函数说起**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/%E5%8F%A6%E7%B1%BB%E8%A7%A3%E8%AF%BBSVM%E2%80%94%E4%BB%8E%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E8%AF%B4%E8%B5%B7.pdf)
 
 [**支持向量回归（SVR）原理介绍**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E5%9B%9E%E5%BD%92%EF%BC%88SVR%EF%BC%89%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D.pdf)
+
+**集成学习**：
+
+[**集成学习概览_Bagging与Boosting**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%A7%88_Bagging%E4%B8%8EBoosting.pdf)
+
+[**随机森林原理介绍**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D.pdf)
+
+[**AdaBoost算法原理详解**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/AdaBoost%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3.pdf)
+
+[**梯度提升与GBDT原理解析**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E4%B8%8EGBDT%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.pdf)
+
+[**XGBoost原理解析**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/XGBoost%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.pdf)
 
 
 
