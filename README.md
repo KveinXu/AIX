@@ -18,7 +18,7 @@ Notes and paper reports for machine learning.
 
 * **相关数学基础**：一些与机器学习相关的数学知识的整理，一般不会涉及详细的原理推导和解释；
 * **机器学习基础**：介绍机器学习的基本概念和基本理论；
-* **统计学习模型**：经典统计学习模型的原理介绍，内容比较基础；
+* **机器学习方法**：经典机器学习方法的原理介绍，内容比较基础；
 * **深度学习基础**：深度学习中基本方法和原理的介绍，一般不涉及具体领域的具体方法；
 * **论文报告**：相关论文的总结和报告，以近几年深度学习方面的文章为主，包括一部分具体研究领域的研究方法总结。
 
@@ -29,6 +29,13 @@ Notes and paper reports for machine learning.
 **传送门**
 
 这里提供pdf文件的链接，markdown文件可以在相应路径下的“markdown”文件夹中找到。
+
+
+
+【**人工智能总览**】
+
+* **发展历程**
+  * [**人工智能发展简史**](https://github.com/KveinXu/AIX/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%80%BB%E8%A7%88/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E7%AE%80%E5%8F%B2.pdf)
 
 
 
@@ -64,7 +71,7 @@ Notes and paper reports for machine learning.
 
 
 
-【**统计学习模型**】
+【**机器学习方法**】
 
 * **线性判别分析**：
 
@@ -94,6 +101,14 @@ Notes and paper reports for machine learning.
 
   * [**XGBoost原理解析**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/XGBoost%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.pdf)
 
+* **EM算法**：
+  * [**EM算法原理解析**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/EM%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.pdf)
+  * [**EM算法与混合高斯模型**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/EM%E7%AE%97%E6%B3%95%E4%B8%8E%E6%B7%B7%E5%90%88%E9%AB%98%E6%96%AF%E6%A8%A1%E5%9E%8B.pdf)
+
+* **聚类**：
+  * [**聚类基本问题之性能度量和距离计算**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/%E8%81%9A%E7%B1%BB%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98%E4%B9%8B%E6%80%A7%E8%83%BD%E5%BA%A6%E9%87%8F%E5%92%8C%E8%B7%9D%E7%A6%BB%E8%AE%A1%E7%AE%97.pdf)
+  * [**常见聚类方法小结**](https://github.com/KveinXu/AIX/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/pdf/%E5%B8%B8%E8%A7%81%E8%81%9A%E7%B1%BB%E6%96%B9%E6%B3%95%E5%B0%8F%E7%BB%93.pdf)
+
 
 
 
@@ -101,11 +116,11 @@ Notes and paper reports for machine learning.
 【**深度学习基础**】
 
 * **优化方法**：
-
   * [**SGD及其变体**](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/SGD%E5%8F%8A%E5%85%B6%E5%8F%98%E4%BD%93.pdf)
 
   * [**深度学习中的标准化操作_BN与GN**](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%A0%87%E5%87%86%E5%8C%96%E6%93%8D%E4%BD%9C_BN%E4%B8%8EGN.pdf)
-
+* **卷积神经网络（CNN）**：
+  * [**深度学习中的各种卷积**](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E5%8D%B7%E7%A7%AF.pdf)
 * **生成对抗网络（GAN）**：
   * [**GAN原理笔记**](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/GAN%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0.pdf)
 
@@ -120,6 +135,8 @@ Notes and paper reports for machine learning.
   * [**后ResNet时代图像分类方法**](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E5%90%8EResNet%E6%97%B6%E4%BB%A3%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95.pdf)
 
     (*including: ResNet, Pre-act ResNet, Xception, Inception-ResNet-v2, ResNeXt, DenseNet*)
+
+  * [**BagNet介绍**](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/BagNet%E4%BB%8B%E7%BB%8D.pdf)
 
 * **Object Detection**:
 
@@ -140,6 +157,7 @@ Notes and paper reports for machine learning.
     (*including: Siamese Network, Matching Network, Prototypical Network*)
 
 * **Meta Learning**:
+
   * [**浅析MAML算法**](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.pdf)
 
 * **Others**:
@@ -149,3 +167,4 @@ Notes and paper reports for machine learning.
   * [**从采样定理思考CNN泛化性能**](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E4%BB%8E%E9%87%87%E6%A0%B7%E5%AE%9A%E7%90%86%E6%80%9D%E8%80%83CNN%E6%B3%9B%E5%8C%96%E6%80%A7%E8%83%BD.pdf)
 
   * [**反思ImageNet预训练**](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E5%8F%8D%E6%80%9DImageNet%E9%A2%84%E8%AE%AD%E7%BB%83.pdf)
+
