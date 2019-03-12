@@ -71,6 +71,22 @@ Notes and paper reports for machine learning.
 
 
 
+【**机器学习基础**】
+
+* **模型划分**：
+  * [**生成模型与判别模型**](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%88%A4%E5%88%AB%E6%A8%A1%E5%9E%8B.pdf)
+
+* **分类问题**：
+  * [**分类任务中常用性能指标**](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/%E5%88%86%E7%B1%BB%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%B8%B8%E7%94%A8%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87.pdf)
+  * [**多分类学习策略**](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/%E5%A4%9A%E5%88%86%E7%B1%BB%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5.pdf)
+* **类别不平衡**：
+  * [**类别不平衡问题的解决方法**](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.pdf)
+  * [**代价敏感学习简介**](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/pdf/%E4%BB%A3%E4%BB%B7%E6%95%8F%E6%84%9F%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.pdf)
+
+
+
+
+
 【**机器学习方法**】
 
 * **线性判别分析**：
