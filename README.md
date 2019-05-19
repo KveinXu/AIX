@@ -31,9 +31,15 @@ Notes and paper reports for machine learning.
 
 **传送门**
 
-**AI总览**：人工智能发展简史  [[md]]([https://github.com/KveinXu/AIX/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%80%BB%E8%A7%88/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E7%AE%80%E5%8F%B2.md](https://github.com/KveinXu/AIX/blob/master/人工智能总览/人工智能发展简史.md)) [[pdf]]([https://github.com/KveinXu/AIX/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%80%BB%E8%A7%88/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E7%AE%80%E5%8F%B2.pdf](https://github.com/KveinXu/AIX/blob/master/人工智能总览/人工智能发展简史.pdf))
+**AI总览**：人工智能发展简史  [[md]](https://github.com/KveinXu/AIX/blob/master/AI%E6%80%BB%E8%A7%88/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E7%AE%80%E5%8F%B2.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/AI%E6%80%BB%E8%A7%88/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E7%AE%80%E5%8F%B2.pdf)
 
+**数学基础**：[内容导航](https://github.com/KveinXu/AIX/tree/master/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80)
 
+**机器学习**：[内容导航](https://github.com/KveinXu/AIX/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+
+**深度学习**：[内容导航](https://github.com/KveinXu/AIX/tree/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
+
+**论文报告**：[内容导航](https://github.com/KveinXu/AIX/tree/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A)
 
 
 
