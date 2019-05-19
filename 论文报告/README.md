@@ -24,15 +24,25 @@ Notes and paper reports for machine learning.
     * DG方法总结（二）    [[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Summary%20of%20DG%20papers%20(2).md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Summary%20of%20DG%20papers%20(2).pdf)
 
 * **元学习（Meta Leanring）**
+
   * MAML介绍	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.pdf)
+
 * **无监督学习（Unsupervised Learning）**
+
   * **自监督学习（Self-supervised Learning）**
+
+    * Self-supervised learning概述	[[ppt]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/ppt/Self-supervised%20learning%20overview.pptx) [pdf]()
+
     * Jigsaw Puzzle任务	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Self-supervised%20Jigsaw%20Puzzles%20Tasks.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Self-supervised%20Jigsaw%20Puzzles%20Tasks.pdf)
     * Learning2count任务    [[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Self-supervised%20Learning%20by%20Learning%20to%20Count.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Self-supervised%20Learning%20by%20Learning%20to%20Count.pdf)
+
 * **半监督学习（Semi-supervised Learning）**
+
   * **自集成学习（Self-ensemble Learning）**
     * Self-emsemble方法总结	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Summary%20of%20Self-ensemble%20Methods.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Summary%20of%20Self-ensemble%20Methods.pdf)
+
 * **网络设计（Network Design）**
+
   * Capsule胶囊网络介绍	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Capsule%E8%83%B6%E5%9B%8A%E7%BD%91%E7%BB%9C%E4%BB%8B%E7%BB%8D.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Capsule%E8%83%B6%E5%9B%8A%E7%BD%91%E7%BB%9C%E4%BB%8B%E7%BB%8D.pdf)
 
 
