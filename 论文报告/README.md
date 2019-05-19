@@ -21,7 +21,7 @@ Notes and paper reports for machine learning.
 
   * **域泛化（Domain Generalization）**
     * DG方法总结	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/A%20Brief%20Report%20on%20Domain%20Generalization.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/A%20Brief%20Report%20on%20Domain%20Generalization.pdf)
-    * DG方法总结（二）    [[md]]([https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Summary%20of%20DG%20papers%20(2).md](https://github.com/KveinXu/AIX/blob/master/论文报告/markdown/Summary of DG papers (2).md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Summary%20of%20DG%20papers%20(2).pdf)
+    * DG方法总结（二）    [[md]](https://github.com/KveinXu/AIX/blob/master/论文报告/markdown/Summary of DG papers (2).md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Summary%20of%20DG%20papers%20(2).pdf)
 
 * **元学习（Meta Leanring）**
   * MAML介绍	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.pdf)
