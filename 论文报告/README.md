@@ -31,7 +31,7 @@ Notes and paper reports for machine learning.
 
   * **自监督学习（Self-supervised Learning）**
 
-    * Self-supervised learning概述	[[ppt]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/ppt/Self-supervised%20learning%20overview.pptx) [pdf]()
+    * Self-supervised learning概述	[[ppt]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/ppt/Self-supervised%20learning%20overview.pptx) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Self-supervised%20learning%20overview.pdf)
 
     * Jigsaw Puzzle任务	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Self-supervised%20Jigsaw%20Puzzles%20Tasks.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Self-supervised%20Jigsaw%20Puzzles%20Tasks.pdf)
     * Learning2count任务    [[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Self-supervised%20Learning%20by%20Learning%20to%20Count.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Self-supervised%20Learning%20by%20Learning%20to%20Count.pdf)
