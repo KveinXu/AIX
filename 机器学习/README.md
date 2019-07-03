@@ -93,3 +93,8 @@ Notes and paper reports for machine learning.
 * 基于平滑性假设的半监督学习方法简介    [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/markdown/%E5%9F%BA%E4%BA%8E%E5%B9%B3%E6%BB%91%E6%80%A7%E5%81%87%E8%AE%BE%E7%9A%84%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%AE%80%E4%BB%8B.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/pdf/%E5%9F%BA%E4%BA%8E%E5%B9%B3%E6%BB%91%E6%80%A7%E5%81%87%E8%AE%BE%E7%9A%84%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%AE%80%E4%BB%8B.pdf)
 
 * 基于分歧的半监督方法简介     [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/markdown/%E5%9F%BA%E4%BA%8E%E5%88%86%E6%AD%A7%E7%9A%84%E5%8D%8A%E7%9B%91%E7%9D%A3%E6%96%B9%E6%B3%95%E7%AE%80%E4%BB%8B.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/pdf/%E5%9F%BA%E4%BA%8E%E5%88%86%E6%AD%A7%E7%9A%84%E5%8D%8A%E7%9B%91%E7%9D%A3%E6%96%B9%E6%B3%95%E7%AE%80%E4%BB%8B.pdf)
+
+【**近似推断**】
+
+* 变分推断原理	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/markdown/%E5%8F%98%E5%88%86%E6%8E%A8%E6%96%AD%E5%8E%9F%E7%90%86.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/pdf/%E5%8F%98%E5%88%86%E6%8E%A8%E6%96%AD%E5%8E%9F%E7%90%86.pdf)
+
