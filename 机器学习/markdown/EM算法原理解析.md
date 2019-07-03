@@ -8,6 +8,8 @@
 
 [What is the expectation maximization algorithm?](https://www.nature.com/articles/nbt1406#f1)
 
+http://www.sohu.com/a/210551059_473283
+
 
 
 #### 1. EM算法引入
@@ -67,7 +69,7 @@ f \left( \mathrm { E } _ { \mathrm { z } ^ { ( i ) } \sim Q _ { i } } \left[ \fr
 $$
 即式（2.3）。
 
-对于任意形式的分布$Q _ { i }​$，式（2.3）都给出了似然$\sum _ { i } \log p \left( x ^ { ( i ) } ; \theta \right)​$的一个下界。现在我们要做的是，使式（2.3）成为一个tight的lower bound，这样才能保证我们在最大化下界的同时，也能最大化对数似然$\sum _ { i } \log p \left( x ^ { ( i ) } ; \theta \right)​$。
+对于任意形式的分布$Q _ { i }$，式（2.3）都给出了似然$\sum _ { i } \log p \left( x ^ { ( i ) } ; \theta \right)$的一个下界。现在我们要做的是，使式（2.3）成为一个tight的lower bound，这样才能保证我们在最大化下界的同时，也能最大化对数似然$\sum _ { i } \log p \left( x ^ { ( i ) } ; \theta \right)$。
 
 于是，我们就要保证在（当前的）$\theta$点，似然函数$\sum _ { i } \log p \left( x ^ { ( i ) } ; \theta \right)$的取值与式（2.3）的取值相同，即Jensen不等式要取到等号。这里需要用到Jensen不等式的一个重要性质：在式（2.4）中，若$X$的取值是一个常数，则不等式取等号。对于式（2.2）和（2.3）来说，也就是要求
 $$
@@ -148,7 +150,7 @@ $$
   \boldsymbol { \theta } ^ { ( t + 1 ) } = \underset { \boldsymbol { \theta } } { \arg \max } Q ( \boldsymbol { \theta } | \boldsymbol { \theta } ^ { ( t ) } ) \tag{4.2}
   $$
 
-这种定义方式与第2节末的定义方式完全相同。在式（4.1）中，已知$\theta^{(t)}$的情况下，我们实际能求解的是$P ( \mathbf { Z } | \mathbf { X } , \theta ^ { ( t ) } )​$，即式（2.6）；而式（2.7）可改写为：
+这种定义方式与第2节末的定义方式完全相同。在式（4.1）中，已知$\theta^{(t)}$的情况下，我们实际能求解的是$P ( \mathbf { Z } | \mathbf { X } , \theta ^ { ( t ) } )$，即式（2.6）；而式（2.7）可改写为：
 $$
 \theta^{(t+1)} = \arg \max _ { \theta } \sum _ { i } \sum _ { z ^ { ( i ) } } [Q _ { i } \left( z ^ { ( i ) } \right) \log{ p \left( x ^ { ( i ) } , z ^ { ( i ) } ; \theta \right) }- { Q _ { i } \left( z ^ { ( i ) } \right)\log{Q_{i}(z^{(i)})} }]
 $$
@@ -165,6 +167,12 @@ $$
 
 #### 5. 理解EM算法
 
-本质上，EM算法就是在当前参数$\theta^{(t)}$这个点，不断构建似然函数的tight lower bound，然后通过最大化这个lower bound，来实现增大似然函数的目标。当然，EM算法不能保证找到全局最优点。
+本质上，EM算法就是在当前参数$\theta^{(t)}$这个点，不断构建似然函数的tight lower bound，然后通过最大化这个lower bound，来实现增大似然函数的目标。具体来说，在E-Step，EM算法在当前参数$\theta^{(t)}$这个点构造tight lower bound，然后在M-Step，关于参数$\theta$来最大化这个lower bound，然后回到E-Step，再构造新的tight lower bound......如此不断迭代下去，直到收敛为止。当然，EM算法不能保证找到全局最优点。
 
 ![1551622805941](assets/1551622805941.png)
+
+**EM算法还可以从坐标上升的角度来理解。**我们要最大化的目标函数是
+$$
+J(Q, \theta)=\sum_{i} \sum_{z^{(i)}} Q_{i}\left(z^{(i)}\right) \log \frac{p\left(x^{(i)}, z^{(i)} ; \theta\right)}{Q_{i}\left(z^{(i)}\right)}
+$$
+在E-Step，我们固定参数$\theta$，通过寻找一个分布$Q$来最大化$J(Q,\theta)$，这是一个lower bound不断收紧的过程，我们找到的最优的$Q$就是后验分布$p \left( z ^ { ( i ) } | x ^ { ( i ) } ; \theta \right)$。而在M-Step，我们固定分布$Q$（相当于固定lower bound），然后寻找最优的$\theta$来最大化$J(Q,\theta)$。
