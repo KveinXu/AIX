@@ -19,8 +19,8 @@ Notes and paper reports for machine learning.
 【**卷积神经网络（CNN）**】
 
 * 深度学习中的各种卷积	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E5%8D%B7%E7%A7%AF.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E5%8D%B7%E7%A7%AF.pdf)
-
 * Strided Convolution & Fractionally Strided Convolution   [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/Strided%20Convolution%20%26%20Fractionally%20Strided%20Convolution.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/Strided%20Convolution%20%26%20Fractionally%20Strided%20Convolution.pdf)
+* 卷积与反卷积的相关计算及可视化    [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E5%8D%B7%E7%A7%AF%E4%B8%8E%E5%8F%8D%E5%8D%B7%E7%A7%AF%E7%9A%84%E7%9B%B8%E5%85%B3%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%8F%AF%E8%A7%86%E5%8C%96.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E5%8D%B7%E7%A7%AF%E4%B8%8E%E5%8F%8D%E5%8D%B7%E7%A7%AF%E7%9A%84%E7%9B%B8%E5%85%B3%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%8F%AF%E8%A7%86%E5%8C%96.pdf)
 
 
 

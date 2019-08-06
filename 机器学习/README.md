@@ -18,6 +18,11 @@ Notes and paper reports for machine learning.
 
 * 代价敏感学习简介	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/markdown/%E4%BB%A3%E4%BB%B7%E6%95%8F%E6%84%9F%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/pdf/%E4%BB%A3%E4%BB%B7%E6%95%8F%E6%84%9F%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.pdf)
 
+【**基本理论**】
+
+* 期望风险、经验风险与结构风险	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/markdown/%E6%9C%9F%E6%9C%9B%E9%A3%8E%E9%99%A9%E3%80%81%E7%BB%8F%E9%AA%8C%E9%A3%8E%E9%99%A9%E4%B8%8E%E7%BB%93%E6%9E%84%E9%A3%8E%E9%99%A9.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/pdf/%E6%9C%9F%E6%9C%9B%E9%A3%8E%E9%99%A9%E3%80%81%E7%BB%8F%E9%AA%8C%E9%A3%8E%E9%99%A9%E4%B8%8E%E7%BB%93%E6%9E%84%E9%A3%8E%E9%99%A9.pdf)
+* 偏差-方差分解    [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/markdown/%E5%81%8F%E5%B7%AE-%E6%96%B9%E5%B7%AE%E5%88%86%E8%A7%A3.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/pdf/%E5%81%8F%E5%B7%AE-%E6%96%B9%E5%B7%AE%E5%88%86%E8%A7%A3.pdf)
+
 【**线性模型**】
 
 * 线性回归基本原理	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/markdown/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/pdf/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.pdf)
