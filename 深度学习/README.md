@@ -49,3 +49,10 @@ Notes and paper reports for machine learning.
 * **AAE**
   * 对抗自编码器AAE原理	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E5%AF%B9%E6%8A%97%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8AAE%E5%8E%9F%E7%90%86.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E5%AF%B9%E6%8A%97%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8AAE%E5%8E%9F%E7%90%86.pdf)
 
+* **Flow-based model**
+  * 基于 Flow 的生成模型简介	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E5%9F%BA%E4%BA%8E%20Flow%20%E7%9A%84%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B.md#%E5%9F%BA%E4%BA%8E-flow-%E7%9A%84%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E5%9F%BA%E4%BA%8E%20Flow%20%E7%9A%84%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B.pdf)
+
+* **Auto-regressive model**
+  * 自回归模型简介：PixelRNN 与 PixelCNN	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B_PixelRNN%20%E4%B8%8E%20PixelCNN.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B_PixelRNN%20%E4%B8%8E%20PixelCNN.pdf)
+  * 自回归模型简介（二）：WaveNet     [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B%E4%BA%8C_WaveNet.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B%E4%BA%8C_WaveNet.pdf)
+
