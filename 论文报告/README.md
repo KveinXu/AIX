@@ -15,15 +15,15 @@ Notes and paper reports for machine learning.
 
   * **小样本学习（Few-shot Learning）**
     * Siamese Net、Matching Net与Prototypical Net	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Few-shot%E4%B8%89%E5%A4%A7%E7%BB%8F%E5%85%B8%E6%96%B9%E6%B3%95%E5%B0%8F%E7%BB%93.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Few-shot%E4%B8%89%E5%A4%A7%E7%BB%8F%E5%85%B8%E6%96%B9%E6%B3%95%E5%B0%8F%E7%BB%93.pdf)
-* **域适应（Domain Adaption）**
-    * ADDA与DIFA	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/ADDA_DIFA.md)
+  * **域适应（Domain Adaption）**
+      * ADDA与DIFA	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/ADDA_DIFA.md)
   * **域泛化（Domain Generalization）**
-  * DG方法总结	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/A%20Brief%20Report%20on%20Domain%20Generalization.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/A%20Brief%20Report%20on%20Domain%20Generalization.pdf)
+    * DG方法总结	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/A%20Brief%20Report%20on%20Domain%20Generalization.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/A%20Brief%20Report%20on%20Domain%20Generalization.pdf)
     * DG方法总结（二）    [[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Summary%20of%20DG%20papers%20(2).md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Summary%20of%20DG%20papers%20(2).pdf)
   * **特征解耦（Rrepresentation Disentanglement）**
-  * Disentangle 相关论文总结    [[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Disentangle%20%E7%9B%B8%E5%85%B3%E8%AE%BA%E6%96%87%E6%80%BB%E7%BB%93.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Disentangle%20%E7%9B%B8%E5%85%B3%E8%AE%BA%E6%96%87%E6%80%BB%E7%BB%93.pdf)
+    * Disentangle 相关论文总结    [[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/Disentangle%20%E7%9B%B8%E5%85%B3%E8%AE%BA%E6%96%87%E6%80%BB%E7%BB%93.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/Disentangle%20%E7%9B%B8%E5%85%B3%E8%AE%BA%E6%96%87%E6%80%BB%E7%BB%93.pdf)
 * **元学习（Meta Leanring）**
-* MAML介绍	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.pdf)
+    * MAML介绍	[[md]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/markdown/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E8%AE%BA%E6%96%87%E6%8A%A5%E5%91%8A/pdf/%E6%B5%85%E6%9E%90MAML%E7%AE%97%E6%B3%95.pdf)
 * **无监督学习（Unsupervised Learning）**
 
   * **自监督学习（Self-supervised Learning）**
