@@ -55,4 +55,6 @@ Notes and paper reports for machine learning.
 * **Auto-regressive model**
   * 自回归模型简介：PixelRNN 与 PixelCNN	[[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B_PixelRNN%20%E4%B8%8E%20PixelCNN.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B_PixelRNN%20%E4%B8%8E%20PixelCNN.pdf)
   * 自回归模型简介（二）：WaveNet     [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B%E4%BA%8C_WaveNet.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E8%87%AA%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B%E4%BA%8C_WaveNet.pdf)
-
+ 
+【**图神经网络（GNN）**】
+* GCN原理浅析 [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/GCN%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/GCN%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.pdf)
