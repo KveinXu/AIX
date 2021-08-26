@@ -58,3 +58,4 @@ Notes and paper reports for machine learning.
  
 【**图神经网络（GNN）**】
 * GCN原理浅析 [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/GCN%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/GCN%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.pdf)
+* GraphSAGE原理浅析 [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/GraphSAGE%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/GraphSAGE%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.pdf)
