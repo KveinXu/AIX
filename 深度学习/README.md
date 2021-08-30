@@ -60,3 +60,6 @@ Notes and paper reports for machine learning.
 * GCN原理浅析 [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/GCN%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/GCN%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.pdf)
 * GraphSAGE原理浅析 [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/GraphSAGE%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/GraphSAGE%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.pdf)
 * GAT原理与简易教程 [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/GAT%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/GAT%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B.pdf)
+
+【**Transformer**】
+* 详解Self-attention与Transformer [[md]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/markdown/%E8%AF%A6%E8%A7%A3Self-attention%E4%B8%8ETransformer.md) [[pdf]](https://github.com/KveinXu/AIX/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pdf/%E8%AF%A6%E8%A7%A3Self-attention%E4%B8%8ETransformer.pdf)
